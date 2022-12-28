@@ -6,7 +6,7 @@
 
 The world can be an overwhelming place, so I help making people’s life easier by developing websites and applications as a software developer.
 
-<!-- <a href="#"><img src="avatar.jpg" width="200" align="right" alt="avatar"/></a> -->
+<a href="#"><img src="jb_badge.png" width="200" align="right" alt="avatar"/></a>
 
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
